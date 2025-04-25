@@ -8,8 +8,8 @@
     "lint": "eslint . --ext .ts --fix"
   },
   "devDependencies": {
-    "@graphprotocol/graph-cli": "^0.64.1",
-    "@graphprotocol/graph-ts": "^0.32.0",
+    "@graphprotocol/graph-cli": "0.97.0",
+    "@graphprotocol/graph-ts": "0.38.0",
     "@types/fs-extra": "^11.0.1",
     "@types/node": "^18.11.18",
     "@typescript-eslint/eslint-plugin": "^2.0.0",
@@ -17,8 +17,8 @@
     "@uniswap/eslint-config": "^1.2.0",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.3",
-    "eslint-config-prettier": "^6.1.0",
     "eslint": "^8.57.0",
+    "eslint-config-prettier": "^6.1.0",
     "fs-extra": "^11.1.0",
     "mustache": "^3.1.0",
     "prettier": "^1.18.2",
