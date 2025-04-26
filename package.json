@@ -8,8 +8,8 @@
     "lint": "eslint . --ext .ts --fix"
   },
   "devDependencies": {
-    "@graphprotocol/graph-cli": "0.97.0",
-    "@graphprotocol/graph-ts": "0.38.0",
+    "@graphprotocol/graph-cli": "^0.64.1",
+    "@graphprotocol/graph-ts": "^0.32.0",
     "@types/fs-extra": "^11.0.1",
     "@types/node": "^18.11.18",
     "@typescript-eslint/eslint-plugin": "^2.0.0",
